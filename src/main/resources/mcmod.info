@@ -1,0 +1,16 @@
+[
+{
+  "modid": "darknature",
+  "name": "Dark Nature",
+  "description": "Imagine the world, in dark..",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NuclearBanana from Team Spectrial"],
+  "credits": "Everybody from Team Spectrial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
