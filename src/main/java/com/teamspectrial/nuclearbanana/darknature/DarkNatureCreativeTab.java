@@ -32,5 +32,9 @@ public final class DarkNatureCreativeTab extends CreativeTabs {
     public void displayAllReleventItems(List itemList) {
 		itemList.add(new ItemStack(DarkNatureCore.DarkGrass));
 		itemList.add(new ItemStack(DarkNatureCore.DarkDirt));
+		itemList.add(new ItemStack(DarkNatureCore.DarkLog));
+		itemList.add(new ItemStack(DarkNatureCore.DarkLeaves));
+		itemList.add(new ItemStack(DarkNatureCore.DarkSapling));
+		itemList.add(new ItemStack(DarkNatureCore.DarkTallGrass));
 	}
 }
