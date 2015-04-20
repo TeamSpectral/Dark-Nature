@@ -1,2 +1,8 @@
 tile.DarkGrass.name=Dark Grass
 tile.DarkDirt.name=Dark Dirt
+tile.DarkLog.name=Dark Log
+tile.DarkLeaves.name=Dark Leaves
+tile.DarkSapling.name=Dark Sapling
+tile.DarkTallGrass.name=Dark Tall Grass
+
+entity.EntityDarkZombie.name=Dark Zombie
